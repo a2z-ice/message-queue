@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="265b924e-36a5-4658-baa8-f49f72b077a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Xul4YX7t7MWZtqBjLJdGDMPrFg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringCloudStreamRabbitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-stream-rabbit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbit.stream.api.SpringCloudStreamRabbitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showImplicitBeans" value="false" />
+    <option name="showInfrastructureBeans" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="265b924e-36a5-4658-baa8-f49f72b077a6" name="Default Changelist" comment="" />
+      <created>1581903670093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581903670093</updated>
+      <workItem from="1581903672825" duration="205000" />
+      <workItem from="1581903889050" duration="2995000" />
+      <workItem from="1581907559806" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="424" key="GridCell.Tab.0.bottom" timestamp="1581907915068">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="424" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581907915068" />
+    <state width="1398" height="424" key="GridCell.Tab.0.center" timestamp="1581907915067">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="424" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581907915067" />
+    <state width="1398" height="424" key="GridCell.Tab.0.left" timestamp="1581907915066">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="424" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581907915066" />
+    <state width="1398" height="424" key="GridCell.Tab.0.right" timestamp="1581907915068">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="424" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581907915068" />
+    <state width="1398" height="424" key="GridCell.Tab.1.bottom" timestamp="1581907915070">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="424" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581907915070" />
+    <state width="1398" height="424" key="GridCell.Tab.1.center" timestamp="1581907915069">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="424" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1581907915069" />
+    <state width="1398" height="424" key="GridCell.Tab.1.left" timestamp="1581907915068">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="424" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1581907915068" />
+    <state width="1398" height="424" key="GridCell.Tab.1.right" timestamp="1581907915069">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="424" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1581907915069" />
+    <state x="114" y="165" key="new project wizard" timestamp="1581904132024">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="114" y="165" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1581904132024" />
+  </component>
+</project>

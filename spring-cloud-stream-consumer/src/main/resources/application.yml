@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: book-stream
+          group: book-stream-queue
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
